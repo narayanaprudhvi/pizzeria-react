@@ -1,0 +1,9 @@
+.leftSide img {
+  width: 70px;
+}
+.rightSide .menu-list {
+  justify-content: flex-end;
+}
+.header {
+  background-color: burlywood;
+}
